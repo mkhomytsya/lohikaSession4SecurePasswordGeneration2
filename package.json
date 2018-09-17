@@ -1,0 +1,22 @@
+{
+  "name": "lohikasession4securepasswordgeneration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkhomytsya/lohikaSession4SecurePasswordGeneration.git"
+  },
+  "author": "Marko Khomytsya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkhomytsya/lohikaSession4SecurePasswordGeneration/issues"
+  },
+  "homepage": "https://github.com/mkhomytsya/lohikaSession4SecurePasswordGeneration#readme",
+  "dependencies": {
+    "commander": "^2.18.0"
+  }
+}
